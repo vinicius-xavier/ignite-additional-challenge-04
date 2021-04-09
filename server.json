@@ -1,0 +1,764 @@
+{
+  "continents": [
+    {
+      "id": "1",
+      "continent": "africa",
+      "continent_name": "África",
+      "banner_url": "https://images.unsplash.com/photo-1511185307590-3c29c11275ca?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "title": "O continente das maiores diversidades culturais",
+      "description": "A África é um continente localizado na zona intertropical, com maior parte do seu território no Hemisfério Sul. Possui mais de um bilhão de habitantes e 30 milhões de km2 de extensão. Possui uma grande diversidade étnica, reunindo centenas de grupos que são falantes de dezenas de idiomas distintos. Alvo do processo de neocolonialismo, a exploração dos recursos naturais do continente é ainda praticada por nações desenvolvidas. Como consequência, muitos países africanos, principalmente na África Subsaariana, enfrentam profundos problemas sociais e econômicos, como a fome e a pobreza.",
+      "countries_count": 54,
+      "languages_count": "2000+",
+      "cities_top100": [
+        {
+          "rank_id": "42",
+          "city_name": "Cairo",
+          "country_name": "Egito",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/320px-Flag_of_Egypt.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1541769740-098e80269166?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Y2Fpcm98ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "54",
+          "city_name": "Joanesburgo",
+          "country_name": "África do Sul",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/320px-Flag_of_South_Africa.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8am9oYW5uZXNidXJnfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "75",
+          "city_name": "Marrakech",
+          "country_name": "Morocco",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/320px-Flag_of_Morocco.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1545041552-becc2efcccc4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzl8fG1hcnJha2VjaHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "82",
+          "city_name": "Hurghada",
+          "country_name": "Egito",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/320px-Flag_of_Egypt.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1562679300-722c0b24717d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8aHVyZ2hhZGF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "continent": "america",
+      "continent_name": "América",
+      "banner_url": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "title": "O continente com maior extensão no sentido norte-sul",
+      "description": "A América é um continente localizado nos hemisférios norte, sul e ocidental, situando-se entre os oceanos Pacífico e Antártico. A sua área de 42.459.000 km² torna-a o segundo maior continente do mundo, ficando atrás apenas da Ásia. É o continente com maior extensão no sentido norte-sul, sendo o único a ocupar todas as faixas climáticas do planeta, uma vez que é cortado pela Linha do Equador e também pelos dois trópicos.",
+      "countries_count": 35,
+      "languages_count": "8+",
+      "cities_top100": [
+        {
+          "rank_id": "8",
+          "city_name": "Nova Iorque",
+          "country_name": "Estados Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8bmV3JTIweW9ya3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "27",
+          "city_name": "Miami",
+          "country_name": "Estados Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1501509497947-782640bc1412?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG1pYW1pfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "29",
+          "city_name": "Los Angeles",
+          "country_name": "Estados Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1544413660-299165566b1d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bG9zJTIwYW5nZWxlc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "34",
+          "city_name": "Las Vegas",
+          "country_name": "Estados Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1508768022758-cb7384c00335?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFzJTIwdmVnYXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "40",
+          "city_name": "Cancún",
+          "country_name": "México",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FuY3VufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "44",
+          "city_name": "Orlando",
+          "country_name": "Estados Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1597466599360-3b9775841aec?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8b3JsYW5kb3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "53",
+          "city_name": "Toronto",
+          "country_name": "Canadá",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/320px-Flag_of_Canada.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1542704792-e30dac463c90?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8dG9yb250b3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "69",
+          "city_name": "Vancouver",
+          "country_name": "Canadá",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/320px-Flag_of_Canada.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1560814304-4f05b62af116?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8dmFuY291dmVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "72",
+          "city_name": "São Francisco",
+          "country_name": "Estados Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FuJTIwZnJhbmNpc2NvfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "81",
+          "city_name": "Honolulu",
+          "country_name": "Estados Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1599837464632-bebf18f68006?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8aG9ub2x1bHV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "85",
+          "city_name": "Buenos Aires",
+          "country_name": "Argentina",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YnVlbm9zJTIwYWlyZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "89",
+          "city_name": "Lima",
+          "country_name": "Peru",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1573621942226-d8399bf786ab?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTR8fGxpbWF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        },
+        {
+          "rank_id": "98",
+          "city_name": "Rio de Janeiro",
+          "country_name": "Brasil",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cmlvJTIwZGUlMjBqYW5laXJvfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "continent": "asia",
+      "continent_name": "Ásia",
+      "banner_url": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+      "title": "O maior dos continentes terrestres",
+      "description": "A Ásia é localizada totalmente no hemisfério oriental, em maior parte no hemisfério setentrional e com uma pequena porção de terras no hemisfério austral. Além de possuir a maior área territorial, abriga também a maior parte da população do planeta, com muitas de suas regiões alcançando as mais elevadas densidades demográficas já registradas. Se o continente asiático corresponde a um terço das terras emersas do planeta, seus habitantes correspondem a 61% da população mundial, com cerca de 4,299 bilhões de pessoas.",
+      "countries_count": 50,
+      "languages_count": "100+",
+      "cities_top100": [
+        {
+          "rank_id": "1",
+          "city_name": "Hong Kong",
+          "country_name": "RAE da Rep. Popular da China",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/320px-Flag_of_Hong_Kong.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8aG9uZyUyMGtvbmd8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "2",
+          "city_name": "Bangkok",
+          "country_name": "Tailândia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1531169628939-e84f860fa5d6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8YmFuZ2tva3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "4",
+          "city_name": "Macau",
+          "country_name": "RAE da Rep. Popular da China",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/320px-Flag_of_Macau.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1556709911-93a82c864ece?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjYXV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "5",
+          "city_name": "Singapura",
+          "country_name": "Singapura ",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/320px-Flag_of_Singapore.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2Fwb3JlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "7",
+          "city_name": "Dubai",
+          "country_name": "Emirados Árabes Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/320px-Flag_of_the_United_Arab_Emirates.svg.png",
+          "image_url": "https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8ZHViYWl8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "9",
+          "city_name": "Kuala Lumpur",
+          "country_name": "Malásia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/320px-Flag_of_Malaysia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1532745609869-16df0d287f3b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8a3VhbGElMjBsdW1wdXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "11",
+          "city_name": "Deli",
+          "country_name": "Índia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1574150723397-44dbd90f3436?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVsaGl8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "13",
+          "city_name": "Shenzhen",
+          "country_name": "República Popular da China",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1522614288668-a697127e9b21?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTB8fHNoZW56aGVufGVufDB8fDB8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "14",
+          "city_name": "Mumbai",
+          "country_name": "Índia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1566552881560-0be862a7c445?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8bXVtYmFpfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "15",
+          "city_name": "Phuket",
+          "country_name": "Tailândia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGh1a2V0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "17",
+          "city_name": "Tóquio",
+          "country_name": "Japão",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "18",
+          "city_name": "Pattaya",
+          "country_name": "Tailândia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1510499496173-610ac3190eae?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fHBhdHRheWF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "19",
+          "city_name": "Taipei",
+          "country_name": "Taiwan",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/320px-Flag_of_the_Republic_of_China.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1470004914212-05527e49370b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dGFpcGVpfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "20",
+          "city_name": "Meca",
+          "country_name": "Arábia Saudita",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/320px-Flag_of_Saudi_Arabia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1592326871020-04f58c1a52f3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bWVjY2F8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "21",
+          "city_name": "Cantão",
+          "country_name": "República Popular da China",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1563090181-20e736afc821?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Z3Vhbmd6aG91fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "23",
+          "city_name": "Medina",
+          "country_name": "Arábia Saudita",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/320px-Flag_of_Saudi_Arabia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1549565396-99c901793c46?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bWVkaW5hfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "24",
+          "city_name": "Seul",
+          "country_name": "Coreia do Sul",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/320px-Flag_of_South_Korea.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1546874177-9e664107314e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c2VvdWx8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "26",
+          "city_name": "Agra",
+          "country_name": "Índia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1590687755272-86a0d097dabb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8YWdyYXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "28",
+          "city_name": "Osaka",
+          "country_name": "Japão",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1590559899731-a382839e5549?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8b3Nha2F8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "30",
+          "city_name": "Xangai",
+          "country_name": "República Popular da China",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1535356795203-50b2eb73f96c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c2hhbmdoYWl8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "31",
+          "city_name": "Cidade de Ho Chi Minh",
+          "country_name": "Vietnã",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/320px-Flag_of_Vietnam.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1593407741958-59550f282621?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8aG8lMjBjaGklMjBtaW5oJTIwY2l0eXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "32",
+          "city_name": "Denpasar",
+          "country_name": "Indonésia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1605766410596-2d8cea80d172?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8ZGVucGFzYXIlMjBjaXR5fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "36",
+          "city_name": "Chennai",
+          "country_name": "Índia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1504244648668-89000185ea9b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMzg0Nzc3fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "38",
+          "city_name": "Johor Bahru",
+          "country_name": "Malásia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/320px-Flag_of_Malaysia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1610917125146-8536b0199df8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8am9ob3IlMjBiYWhydXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "39",
+          "city_name": "Jaipur",
+          "country_name": "Índia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1524229648276-e66561fe45a9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8amFpcHVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "45",
+          "city_name": "Moscou",
+          "country_name": "Rússia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/320px-Flag_of_Russia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1547448415-e9f5b28e570d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bW9zY293fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "48",
+          "city_name": "Baía de Ha Long",
+          "country_name": "Vietnã",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/320px-Flag_of_Vietnam.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1588892355870-23d3dee5eac7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8aGElMjBsb25nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "49",
+          "city_name": "Riade",
+          "country_name": "Arábia Saudita",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/320px-Flag_of_Saudi_Arabia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1492763204268-fa0b1a55f143?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cml5YWRofGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "52",
+          "city_name": "Hanói",
+          "country_name": "Vietnã",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/320px-Flag_of_Vietnam.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1553851919-596510268b99?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8aGElMjBub2klMkMlMjB2aWV0bmFtfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "57",
+          "city_name": "Jacarta",
+          "country_name": "Indonésia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1555899434-94d1368aa7af?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8amFrYXJ0YXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "58",
+          "city_name": "Pequim",
+          "country_name": "República Popular da China",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1537265655479-901d3de699d7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8YmVpamluZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "59",
+          "city_name": "São Petersburgo",
+          "country_name": "Rússia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/320px-Flag_of_Russia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1551005756-fd0657e8fbf2?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NXwzODYzMjczfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "61",
+          "city_name": "Jerusalém",
+          "country_name": "Israel",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/320px-Flag_of_Israel.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1542743408-218cc173cda0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8amVydXNhbGVtfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "64",
+          "city_name": "Damã",
+          "country_name": "Arábia Saudita",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/320px-Flag_of_Saudi_Arabia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1578895101408-1a36b834405b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8ZGFtbWFtfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "65",
+          "city_name": "Ilha de Penang",
+          "country_name": "Malásia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/320px-Flag_of_Malaysia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1592811069126-7e43dde028eb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fHBlbmFuZyUyMGlzbGFuZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "67",
+          "city_name": "Quioto",
+          "country_name": "Japão",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a3lvdG98ZW58MHx8MHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "68",
+          "city_name": "Zhuhai",
+          "country_name": "República Popular da China",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1568947577887-1bcb41962122?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8emh1aGFpfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "70",
+          "city_name": "Chiang Mai",
+          "country_name": "Tailândia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1597629008285-a10132d20913?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8Y2hpYW5nJTIwbWFpfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "76",
+          "city_name": "Calcutá",
+          "country_name": "Índia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1561891615-a79506c75afe?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a29sa2F0dGF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "77",
+          "city_name": "Cebu",
+          "country_name": "Filipinas",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/320px-Flag_of_the_Philippines.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1548780772-e21fa3f2cfd7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Y2VidXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "79",
+          "city_name": "Telavive",
+          "country_name": "Israel",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/320px-Flag_of_Israel.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1500990702037-7620ccb6a60a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dGVsJTIwYXZpdnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "80",
+          "city_name": "Guilin",
+          "country_name": "República Popular da China",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1585988418977-2123a3503ddb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VpbGlufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "86",
+          "city_name": "Chiba",
+          "country_name": "Japão",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dmlsbGFnZSUyMGluJTIwY2hpYmElMkMlMjBqYXBhbnxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "90",
+          "city_name": "Da Nang",
+          "country_name": "Vietnã",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/320px-Flag_of_Vietnam.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1505018620898-92616e1849cc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZGElMjBuYW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "91",
+          "city_name": "Batam",
+          "country_name": "Indonésia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1596785236414-3b235f4ff58a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fGJhdGFtJTIwY2l0eXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "93",
+          "city_name": "Fukuoka",
+          "country_name": "Japão",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1530634082454-f57b7d567b25?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZnVrdW9rYXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "94",
+          "city_name": "Abu Dhabi",
+          "country_name": "Emirados Árabes Unidos",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/320px-Flag_of_the_United_Arab_Emirates.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1512632578888-169bbbc64f33?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YWJ1JTIwZGhhYml8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "95",
+          "city_name": "Jeju",
+          "country_name": "Coreia do Sul",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/320px-Flag_of_South_Korea.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1572608957299-4657d90691ca?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDF8fGplanV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "99",
+          "city_name": "Krabi",
+          "country_name": "Tailândia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1575641754416-ebad8bb38531?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8a3JhYml8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "100",
+          "city_name": "Bangalore",
+          "country_name": "Índia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1576595877976-62a0b964c3af?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZ2Fsb3JlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "continent": "europa",
+      "continent_name": "Europa",
+      "banner_url": "https://images.unsplash.com/photo-1490093218111-bbad07808658?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "title": "O continente com uma grande densidade de territórios independentes",
+      "description": "A Europa é um continente situado em três hemisférios distintos: o setentrional, o ocidental e o oriental. Localiza-se a oeste da Ásia, ao norte da África, a leste do Oceano Atlântico e ao sul do Oceano Glacial Ártico. As sociedades que habitaram esse continente foram as principais responsáveis pela colonização da maior parte dos demais territórios do planeta, sendo, por isso, denominado como o “centro do mundo”, apesar de, em termos cartográficos, essa expressão ser considerada errônea.",
+      "countries_count": 50,
+      "languages_count": "60+",
+      "cities_top100": [
+        {
+          "rank_id": "3",
+          "city_name": "Londres",
+          "country_name": "Reino Unido",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/320px-Flag_of_the_United_Kingdom_%282-3%29.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9ufGVufDB8MHwwfA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "6",
+          "city_name": "Paris",
+          "country_name": "França",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/320px-Flag_of_France.png",
+          "image_url": "https://images.unsplash.com/photo-1431274172761-fca41d930114?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFyaXN8ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "10",
+          "city_name": "Istambul",
+          "country_name": "Turquia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/320px-Flag_of_Turkey.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1613565260509-223017a8b76a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8aXN0YW1idWx8ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "12",
+          "city_name": "Antália",
+          "country_name": "Turquia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/320px-Flag_of_Turkey.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1593238739364-18cfde30e522?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fGFudGFseWF8ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "16",
+          "city_name": "Roma",
+          "country_name": "Itália",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cm9tZXxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "22",
+          "city_name": "Praga",
+          "country_name": "República Tcheca",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_the_Czech_Republic_%285-3%29.svg/320px-Flag_of_the_Czech_Republic_%285-3%29.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cHJhZ3VlfGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "25",
+          "city_name": "Amsterdã",
+          "country_name": "Holanda",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1468436385273-8abca6dfd8d3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8YW1zdGVyZGFtfGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "33",
+          "city_name": "Barcelona",
+          "country_name": "Espanha",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/320px-Flag_of_Spain.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1587789202069-f57c846b85db?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhcmNlbG9uYXxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "35",
+          "city_name": "Milão",
+          "country_name": "Itália",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1610016302534-6f67f1c968d8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bWlsYW58ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "37",
+          "city_name": "Viena",
+          "country_name": "Austria",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/320px-Flag_of_Austria.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dmllbm5hfGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "41",
+          "city_name": "Berlim",
+          "country_name": "Alemanha",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1540224485413-4c7939106f3a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8YmVybGlufGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "43",
+          "city_name": "Atenas",
+          "country_name": "Grécia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/320px-Flag_of_Greece.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1503152394-c571994fd383?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YXRoZW5zfGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "46",
+          "city_name": "Veneza",
+          "country_name": "Itália",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1565200147714-b45d3fbaf13d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fHZlbmljZXxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "47",
+          "city_name": "Madri",
+          "country_name": "Espanha",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/320px-Flag_of_Spain.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFkcmlkfGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "50",
+          "city_name": "Dublin",
+          "country_name": "Irlanda",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/320px-Flag_of_Ireland.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1584796353969-30d8473ce76f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZHVibGlufGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "51",
+          "city_name": "Florence",
+          "country_name": "Itália",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1543173947-4465841bd5e2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmxvcmVuY2V8ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "56",
+          "city_name": "Munique",
+          "country_name": "Alemanha",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1518290581883-8a26c3735cd2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bXVuaWNofGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "60",
+          "city_name": "Bruxelas",
+          "country_name": "Bélgica",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/277px-Flag_of_Belgium.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1548092304-e0205cb0031b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YnJ1c3NlbHN8ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "62",
+          "city_name": "Budapeste",
+          "country_name": "Hungria",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/320px-Flag_of_Hungary.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1520986840182-5b15f734c85c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8YnVkYXBlc3R8ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "63",
+          "city_name": "Lisboa",
+          "country_name": "Portugal",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/320px-Flag_of_Portugal.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1548707309-dcebeab9ea9b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bGlzYm9ufGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "66",
+          "city_name": "Heraclião",
+          "country_name": "Grécia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/320px-Flag_of_Greece.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1601224065850-24bfad5400bd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzV8fGhlcmFrbGlvbnxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "71",
+          "city_name": "Copenhaga",
+          "country_name": "Dinamarca",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/318px-Flag_of_Denmark.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1551651767-d5ffbdd04b83?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29wZW5oYWdlbnxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "74",
+          "city_name": "Cracóvia",
+          "country_name": "Polônia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/320px-Flag_of_Poland.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1495181941197-70a606546974?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8a3Jha293fGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "83",
+          "city_name": "Varsóvia",
+          "country_name": "Polônia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/320px-Flag_of_Poland.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1519197924294-4ba991a11128?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8d2Fyc2F3fGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "84",
+          "city_name": "Mugla",
+          "country_name": "Turquia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/320px-Flag_of_Turkey.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1600194795031-e8c60926db4f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8bXVnbGF8ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "87",
+          "city_name": "Frankfurt",
+          "country_name": "Alemanha",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1577185816322-21f2a92b1342?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJhbmtmdXJ0fGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "88",
+          "city_name": "Estocolmo",
+          "country_name": "Suécia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/320px-Flag_of_Sweden.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1580339841933-f06ca55842d0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c3RvY2tob2xtfGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "92",
+          "city_name": "Nice",
+          "country_name": "França",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/320px-Flag_of_France.png",
+          "image_url": "https://images.unsplash.com/photo-1586168574850-38dfa4d603f0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bmljZXxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "96",
+          "city_name": "Porto",
+          "country_name": "Portugal",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/320px-Flag_of_Portugal.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1569959220744-ff553533f492?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydG98ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "97",
+          "city_name": "Rodes",
+          "country_name": "Grécia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/320px-Flag_of_Greece.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1588796503044-0a7c50edbd12?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cmhvZGVzfGVufDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "continent": "oceania",
+      "continent_name": "Oceania",
+      "banner_url": "https://images.unsplash.com/photo-1528800223624-764941bb49db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1333&q=80",
+      "title": "O menor dos continentes terrestres",
+      "description": "A Oceania é um continente localizado a sudeste da Ásia, compreendendo um conjunto de ilhas somado à Austrália, essa última considerada como uma massa continental chamada de “Australásia”. Possui uma área total de 8.480.355 km², onde habitam aproximadamente 38 milhões de pessoas. Por ter sido o último continente a ser colonizado pelos europeus, a Oceania é alcunhada de “novíssimo continente”, em distinção a Europa (o velho mundo) e à América (o novo mundo), segundo a regionalização eurocêntrica da Terra.",
+      "countries_count": 16,
+      "languages_count": "18",
+      "cities_top100": [
+        {
+          "rank_id": "55",
+          "city_name": "Sydney",
+          "country_name": "Austrália",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/320px-Flag_of_Australia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1523428096881-5bd79d043006?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c3lkbmV5fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "73",
+          "city_name": "Melbourne",
+          "country_name": "Austrália",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/320px-Flag_of_Australia.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1545044846-351ba102b6d5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bWVsYm91cm5lfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "rank_id": "78",
+          "city_name": "Auckland",
+          "country_name": "Nova Zelândia",
+          "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png",
+          "image_url": "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YXVja2xhbmR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    }
+  ]
+}

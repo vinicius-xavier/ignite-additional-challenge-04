@@ -1,0 +1,1 @@
+export { continentsData } from "./continentsData";
